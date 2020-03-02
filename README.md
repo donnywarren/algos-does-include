@@ -2,12 +2,12 @@
 
 ## Mini Algorithm Exercise
 
-"Array Includes"
+"Does Include"
 
 ### Objectives
 
-- Check if a piece of data exists in an array **without using a loop**. Remember, loops include `while` and `for`, as well as the `.forEach`, `.map` and `.filter` higher-order methods. _Hint: There is an array method that may be useful in solving this problem._
-- The output should either return true or false depending on the test case.
+- Check if a given parameter (`x`) exists in a given array or string (`data`) **without using a loop**. Remember, loops include `while` and `for`, as well as the `.forEach`, `.map` and `.filter` higher-order methods. _Hint: There is an array method that may be useful in solving this problem._
+- The output should either return `true` or `false` depending on the test case.
 
 ### Getting Started
 
