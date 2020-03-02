@@ -6,9 +6,9 @@ describe.each([
   [['a', 'e', 'y', 'z'], 'f', false],
   ['hello', 'e', true],
   [[], 'a', false]
-])('%# Does arr include x ?', (arr, x, expected) => {
-  test(`Should check if ${x} is in ${arr}`, () => {
-    expect(doesInclude(arr, x)).toBe(expected)
+])('%# Does data include x ?', (data, x, expected) => {
+  test(`Should check if ${x} is in ${data}`, () => {
+    expect(doesInclude(data, x)).toBe(expected)
   })
 })
 
