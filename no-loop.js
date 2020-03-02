@@ -3,7 +3,7 @@
  * You are not allowed to use a loop of any kind.
 **/
 
-const doesInclude = (arr, x) => {
+const doesInclude = (data, x) => {
 
 }
 
